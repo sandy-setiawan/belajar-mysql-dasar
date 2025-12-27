@@ -40,4 +40,4 @@ CREATE TABLE mahasiswa
 Jika Anda ingin menghapus tabel, Anda bisa
 menjalankan perintah:
 
-```DROP TABLE mahasiswa```
+```DROP TABLE mahasiswa;```
